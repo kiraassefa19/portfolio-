@@ -217,15 +217,15 @@ const Home = () => {
               </ul>
               <p className="mt-4 max-w-4xl mx-auto text-lg text-left text-gray-500 dark:text-gray-500">
                 I began my journey as an employee at Kifiya in August 2023,
-                taking on the role of a software enginner. Since then, I've been
-                an integral part of the company's development team, actively
-                contributing to various projects. Working alongside a talented
-                group of professionals, I've had the opportunity to tackle
-                diverse challenges in software development. My responsibilities
-                have spanned from creating user-friendly front-end interfaces to
-                developing robust back-end systems. It's been a rewarding
-                experience, and I'm excited to continue making valuable
-                contributions to Kifiya's mission.
+                taking on the role of a software enginner. Since then, I&apos;ve
+                been an integral part of the company&apos;s development team,
+                actively contributing to various projects. Working alongside a
+                talented group of professionals, I&apos;ve had the opportunity
+                to tackle diverse challenges in software development. My
+                responsibilities have spanned from creating user-friendly
+                front-end interfaces to developing robust back-end systems.
+                It&apos;s been a rewarding experience, and I&apos;m excited to
+                continue making valuable contributions to Kifiya&apos;s mission.
               </p>
             </motion.div>
           </div>
