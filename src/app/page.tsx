@@ -124,7 +124,8 @@ const Home = () => {
             <FaGithub size={30} />
           </a>
           <a
-            href="https://instagram"
+            href="https://kirubelassefa29@gmail.com
+"
             target="_blank"
             rel="noopener noreferrer"
             className="text-red-400 hover:text-red-600 transition"
@@ -364,7 +365,7 @@ const Home = () => {
             <FaGithub size={24} />
           </motion.a>
           <motion.a
-            href="https://twitter.com/yourusername"
+            href="https://kirubelassefa29@gmail.com"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Twitter"
